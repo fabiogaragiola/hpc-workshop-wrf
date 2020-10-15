@@ -11,3 +11,4 @@ wget https://zlib.net/zlib-1.2.11.tar.gz
 wget https://downloads.sourceforge.net/project/libpng/libpng12/older-releases/1.2.57/libpng-1.2.57.tar.gz 
 wget https://www.ece.uvic.ca/~frodo/jasper/software/jasper-1.900.2.tar.gz 
 wget ftp://ftp.cpc.ncep.noaa.gov/wd51we/wgrib2/wgrib2.tgz
+wget https://dtcenter.org/sites/default/files/code/dtc-upp-v3-1-1-tar.gz

@@ -7,7 +7,7 @@ env > /tmp/env_after
 
 #Download source packages
 #Packages has been already downloaded by GCC
-#bash download.sh
+bash download.sh
 #Run Manually because it takes too much to be included in cluster preparation
 #bash download_and_install_geog_data.sh &
 
